@@ -8,5 +8,4 @@ def hello_t(array)
     end
   end
 end
-hello_t(["Tim", "Tom", "Jim"])
 # call your method here!
